@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Expanding CNN-Based Plant Phenotyping Systems to Larger Environments",
+    "pdf": "pub/eccv20-expandingcnn.pdf",
+    "venue": "ECCV Workshops",
+    "venue_long": "ECCV Workshops",
+    "year": 2020,
+    "authors": "Jonas Krause, Kyungim Baek, Lipyeow Lim"
+  },
+  {
+    "title": "An Experimental Survey of Evaluation Strategies for Constellation Queries",
+    "pdf": "pub/ssdbm19-constellationquery.pdf",
+    "venue": "SSDBM",
+    "venue_long": "Scientific and Statistical Database Management Conference (SSDBM 2019)",
+    "year": 2019,
+    "authors": "Glenn Galvizo, Lipyeow Lim"
+  },
+  {
+    "title": "A guided multi-scale categorization of plant species in natural images",
+    "pdf": "pub/cvppp19-wtp2.pdf",
+    "venue": "CVPR Workshop on CVPPP",
+    "venue_long": "CVPR Workshop on Computer Vision Problems In Plant Phenotyping (CVPPP 2019)",
+    "year": 2019,
+    "authors": "Jonas Krause, Kyungim Baek, Lipyeow Lim"
+  },
+  {
+    "title": "What's That Plant? WTPlant is a Deep Learning System for Identifying Plants in Natural Images",
+    "pdf": "pub/cvppp18-wtp.pdf",
+    "venue": "BMVC Workshop on CVPPP",
+    "venue_long": "BMVC Workshop on Computer Vision Problems In Plant Phenotyping (CVPPP 2018)",
+    "year": 2018,
+    "authors": "Jonas Krause, Lipyeow Lim, Kyungim Baek, Gavin Sujita"
+  },
+  {
+    "title": "WTPlant (What's That Plant?): a Deep Learning System for Identifying Plants in Natural Images",
+    "pdf": "pub/icmr18-wtp.pdf",
+    "venue": "ACM International Conference on Multimedia Retrieval (ICMR)",
+    "venue_long": "ACM International Conference on Multimedia Retrieval (ICMR)",
+    "year": 2018,
+    "authors": "Jonas Krause, Gavin Sujita, Lipyeow Lim, Kyungim Baek"
+  },
+  {
+    "title": "30min-Ahead Gridded Solar Irradiance Forecasting using Satellite Data",
+    "pdf": "pub/adc18-satellitefcst.pdf",
+    "venue": "Australasian Database Conference",
+    "venue_long": "Australasian Database Conference",
+    "year": 2018,
+    "authors": "Todd Taomae, Lipyeow Lim, Duane Stevens, Dora Nakafuji"
+  },
+  {
+    "title": "A Differentially Private Matching Scheme for Pairing Similar Users of Proximity Based Social Networking applications",
+    "pdf": "https://drive.google.com/file/d/0B5tMN1Hon-jPNE0xRTkyMUlJNlk/view",
+    "venue": "HICSS",
+    "venue_long": "51st Hawaii International Conference on System Sciences (HICSS'18)",
+    "year": 2018,
+    "authors": "Michael Sommer, Lipyeow Lim, Depeng Li"
+  },
+  {
+    "title": "Cloud-based query evaluation for energy-efficient mobile sensing",
+    "pdf": "",
+    "venue": "Pervasive Mobile Computing Journal",
+    "venue_long": "Pervasive Mobile Computing Journal",
+    "year": 2017,
+    "authors": "Tianli Mo, Lipyeow Lim, Sougata Sen, Archan Misra, Rajesh Krishna Balan, Youngki Lee"
+  },
+  {
+    "title": "Developing Data-Driven Hawaiian Language Vocabulary Lists using Preserved Documents (Abstract)",
+    "pdf": "pub/icldc2017-hawaiianvocab.pdf",
+    "venue": "International Conference on Language Documentation and Conservation (ICLDC)",
+    "venue_long": "International Conference on Language Documentation and Conservation (ICLDC)",
+    "year": 2017,
+    "authors": "Kelsea Hosoda, Lipyeow Lim"
+  },
+  {
+    "title": "Low-latency XPath Query Evaluation on Multi-Core Processors",
+    "pdf": "pub/hicss2017-parxpath.pdf",
+    "venue": "HICSS",
+    "year": 2017,
+    "authors": "Benjamin Karsin, Lipyeow Lim, Henri Casanova"
+  },
+  {
+    "title": "Probabilistic Models for One-Day Ahead Solar Irradiance Forecasting in Renewable Energy Applications",
+    "pdf": "pub/icmla2015-probsolar.pdf",
+    "venue": "ICMLA",
+    "year": 2015,
+    "authors": "Carlos Andrade, Lipyeow Lim, Duane Stevens, et al"
+  },
+  {
+    "title": "Data Analytics for Solar Energy Management",
+    "pdf": "pub/icem2015-solaranalytics-slides.pdf",
+    "venue": "ICEM",
+    "year": 2015,
+    "authors": "Lipyeow Lim, Duane Stevens, Sen Chiao, et al"
+  },
+  {
+    "title": "Cloud-based Query Evaluation for Energy-Efficient Mobile Sensing",
+    "pdf": "pub/mdm14-cloque.pdf",
+    "venue": "MDM",
+    "year": 2014,
+    "authors": "Tianli Mo, Sougata Sen, Lipyeow Lim, Archan Misra, Rajesh Krishna Balan, Youngki Lee"
+  },
+  {
+    "title": "Cost-Optimal Execution of Boolean Query Trees with Shared Streams",
+    "pdf": "pub/ipdps2014-boolquerytrees.pdf",
+    "venue": "International Parallel & Distributed Processing Symposium",
+    "year": 2014,
+    "authors": "Dounia Zaidouni (ENS Lyon), Yves Robert (ENS Lyon), Frederic Vivien (INRIA), Henri Casanova (UHM), Lipyeow Lim (UHM)"
+  },
+  {
+    "title": "Elastic Data Partitioning for Cloud-based SQL Processing Systems",
+    "pdf": "pub/scdm13-elasticfrag.pdf",
+    "venue": "Scalable Cloud Data Management Workshop",
+    "year": 2013,
+    "authors": "Lipyeow Lim"
+  },
+  {
+    "title": "EnergyEfficient Collaborative Query Processing Framework for Mobile Sensing Services",
+    "pdf": "pub/mdm13-cqp.pdf",
+    "venue": "MDM",
+    "year": 2013,
+    "authors": "Jin Yang, Tianli Mo, Lipyeow Lim, Kai-Uwe Sattler, Archan Misra"
+  },
+  {
+    "title": " Query-Aware Compression of Join Results",
+    "pdf": "pub/edbt13-joincomp.pdf",
+    "venue": "EDBT",
+    "year": 2013,
+    "authors": "Christopher M. Mullins, Lipyeow Lim, Christian A. Lang"
+  },
+  {
+    "title": " Semantic Query By Example",
+    "pdf": "pub/edbt13-sqbe.pdf",
+    "venue": "EDBT",
+    "year": 2013,
+    "authors": "Lipyeow Lim, Haixun Wang, Min Wang"
+  },
+  {
+    "title": " The Case for Cloud-Enabled Mobile Sensing Services",
+    "pdf": "pub/mcc12-mobilesensing.pdf",
+    "venue": "Mobile Cloud Computing Workshop (colocated with SIGCOMM) ",
+    "year": 2012,
+    "authors": "Sougata Sen, Archan Misra, Rajesh Balan, Lipyeow Lim"
+  },
+  {
+    "title": " Adaptive Data Acquisition Strategies for Energy-Efficient Smartphone-based Continuous Processing of Sensor Streams",
+    "pdf": "pub/dapd12-acqua.pdf",
+    "venue": "Distributed and Parallel Databases Journal",
+    "year": 2012,
+    "authors": "Lipyeow Lim, Archan Misra, Tianli Mo"
+  },
+  {
+    "title": " Optimizing Sensor Data Acquisition for Energy-Efficient Smartphone-based Continuous Event Processing",
+    "pdf": "pub/mdm11-eecep.pdf",
+    "venue": "MDM",
+    "venue_long": "Mobile Data Management",
+    "year": 2011,
+    "authors": "Archan Misra, Lipyeow Lim"
+  },
+  {
+    "title": "Optimizing Access Across Multiple Hierarchies in Data Warehouses",
+    "pdf": "pub/hicss2011-hierarchymgmt.pdf",
+    "venue": "HICSS",
+    "venue_long": "Hawaii International Conference on System Science (HICSS)",
+    "year": 2011,
+    "authors": "Lipyeow Lim, Bishwaranjan Bhattacharjee"
+  },
+  {
+    "title": "Optimizing content freshness of relations extracted from the web using keyword search.",
+    "pdf": "pub/sigmod10-contentfreshness.pdf",
+    "venue": "SIGMOD",
+    "year": 2010,
+    "authors": "Mohan Yang, Haixun Wang, Lipyeow Lim, Min Wang"
+  },
+  {
+    "title": "Statistics-based parallelization of XPath queries in shared memory systems.",
+    "pdf": "pub/edbt10-xpathmulticore.pdf",
+    "venue": "EDBT",
+    "venue_long": "Proceedings of the International Conference on Extending Database Technology (EDBT)",
+    "year": 2010,
+    "authors": "Rajesh Bordawekar, Lipyeow Lim, Anastasios Kementsietsidis, Bryant Wei-Lun Kok"
+  },
+  {
+    "title": "LinkedCT: A Linked Data Space for Clinical Trials.",
+    "pdf": "pub/arxiv09-linkedct.pdf",
+    "venue": "CoRR abs/0908.0567",
+    "year": 2009,
+    "authors": "Oktie Hassanzadeh, Anastasios Kementsietsidis, Lipyeow Lim, Ren'ee J. Miller, Min Wang"
+  },
+  {
+    "title": "Efficient Index Compression in DB2 LUW.",
+    "pdf": "pub/vldb09-indexcompression.pdf",
+    "venue": "VLDB",
+    "venue_long": "Proceedings of the International Conference on Very Large Data Bases (VLDB) 2(2)",
+    "year": 2009,
+    "authors": "Bishwaranjan Bhattacharjee, Lipyeow Lim, Timothy Malkemus, George A. Mihaila, Kenneth A. Ross, Sherman Lau, Cathy McCarthur, Zoltan Toth, Reza Sherkat"
+  },
+  {
+    "title": "Linkage Query Writer.",
+    "pdf": "pub/vldb09-linquer.pdf",
+    "venue": "VLDB",
+    "venue_long": "Proceedings of the International Conference on Very Large Data Bases (VLDB) 2(2)",
+    "year": 2009,
+    "authors": "Oktie Hassanzadeh, Reynold Xin, Ren'ee J. Miller, Anastasios Kementsietsidis, Lipyeow Lim, Min Wang"
+  },
+  {
+    "title": "Challenges on Modeling Hybrid XML-Relational Databases.",
+    "pdf": "",
+    "venue": "Open and Novel Issues in XML Database Applications: Future Directions and Advanced Technologies",
+    "year": 2009,
+    "authors": "Mirella M. Moro, Lipyeow Lim, Yuan-Chi Chang"
+  },
+  {
+    "title": "A framework for semantic link discovery over relational data.",
+    "pdf": "pub/cikm09-linquer.pdf",
+    "venue": "CIKM",
+    "venue_long": "Proceedings of the ACM Conference on Information and Knowledge Management (CIKM)",
+    "year": 2009,
+    "authors": "Oktie Hassanzadeh, Anastasios Kementsietsidis, Lipyeow Lim, Ren'ee J. Miller, Min Wang"
+  },
+  {
+    "title": "Semantic queries in databases: problems and challenges.",
+    "pdf": "pub/cikm09-semanticqueries.pdf",
+    "venue": "CIKM",
+    "venue_long": "Proceedings of the ACM Conference on Information and Knowledge Management (CIKM)",
+    "year": 2009,
+    "authors": "Lipyeow Lim, Haixun Wang, Min Wang"
+  },
+  {
+    "title": "Parallelization of XPath queries using multi-core processors: challenges and experiences.",
+    "pdf": "pub/ebdt09-parxpath.pdf",
+    "venue": "EDBT",
+    "venue_long": "Proceedings of the International Conference on Extending Database Technology (EDBT)",
+    "year": 2009,
+    "authors": "Rajesh Bordawekar, Lipyeow Lim, Oded Shmueli"
+  },
+  {
+    "title": "A declarative framework for semantic link discovery over relational data.",
+    "pdf": "pub/www09-semanticlink.pdf",
+    "venue": "WWW",
+    "venue_long": "Proceedings of the International Conference on World Wide Web (WWW)",
+    "year": 2009,
+    "authors": "Oktie Hassanzadeh, Lipyeow Lim, Anastasios Kementsietsidis, Min Wang"
+  },
+  {
+    "title": "Modeling and Querying E-Commerce Data in Hybrid Relational-XML DBMSs.",
+    "pdf": "pub/er08-ecatalog.pdf",
+    "venue": "Proceedings of the International Confernce on Conceptual Modeling (ER)",
+    "year": 2008,
+    "authors": "Lipyeow Lim, Haixun Wang, Min Wang"
+  },
+  {
+    "title": "Optimizing Hierarchical Access in OLAP Environment.",
+    "pdf": "pub/icde08-hierarchy.pdf",
+    "venue": "ICDE",
+    "venue_long": "Proceedings of the International Conference on Data Engineering (ICDE)",
+    "year": 2008,
+    "authors": "Lipyeow Lim, Bishwaranjan Bhattacharjee"
+  },
+  {
+    "title": "Supporting ontology-based keyword search over medical databases..",
+    "pdf": "pub/amia08-ontkeyword.pdf",
+    "venue": "AMIA",
+    "venue_long": "Proceedings of the American Medical Informatics Association (AMIA) Annual Symposium",
+    "year": 2008,
+    "authors": "Anastasios Kementsietsidis, Lipyeow Lim, Min Wang"
+  },
+  {
+    "title": "Efficient Update of Indexes for Dynamically Changing Web Documents.",
+    "pdf": "pub/wwwj07-landmark.pdf",
+    "venue": "World Wide Web Journal 10(1)",
+    "year": 2007,
+    "authors": "Lipyeow Lim, Min Wang, Sriram Padmanabhan, Jeffrey Scott Vitter, Ramesh C. Agarwal"
+  },
+  {
+    "title": "Persisting and querying biometric event streams with hybrid relational-XML DBMS.",
+    "pdf": "pub/debs07-biostreams.pdf",
+    "venue": "Proceedings of the International Conference on Distributed Event-Based Systems (DEBS)",
+    "year": 2007,
+    "authors": "Daby M. Sow, Lipyeow Lim, Min Wang, Kyu Hyun Kim"
+  },
+  {
+    "title": "Semantic Data Management: Towards Querying Data with their Meaning.",
+    "pdf": "pub/icde07-ontology.pdf",
+    "venue": "ICDE",
+    "venue_long": "Proceedings of the International Conference on Data Engineering (ICDE)",
+    "year": 2007,
+    "authors": "Lipyeow Lim, Haixun Wang, Min Wang"
+  },
+  {
+    "title": "Supporting ranking and clustering as generalized order-by and group-by.",
+    "pdf": "pub/sigmod07-clustrank.pdf",
+    "venue": "SIGMOD",
+    "venue_long": "Proceedings of the ACM SIGMOD International Conference on Management of Data",
+    "year": 2007,
+    "authors": "Chengkai Li, Min Wang, Lipyeow Lim, Haixun Wang, Kevin Chen-Chuan Chang"
+  },
+  {
+    "title": "Schema advisor for hybrid relational-XML DBMS.",
+    "pdf": "pub/sigmod07-rxadvisor.pdf",
+    "venue": "SIGMOD",
+    "venue_long": "Proceedings of the ACM SIGMOD International Conference on Management of Data",
+    "year": 2007,
+    "authors": "Mirella Moura Moro, Lipyeow Lim, Yuan-Chi Chang"
+  },
+  {
+    "title": "Unifying Data and Domain Knowledge Using Virtual Views.",
+    "pdf": "pub/vldb07-virtualview.pdf",
+    "venue": "VLDB",
+    "venue_long": "Proceedings of the International Conference on Very Large Data Bases (VLDB)",
+    "year": 2007,
+    "authors": "Lipyeow Lim, Haixun Wang, Min Wang"
+  },
+  {
+    "title": "Preserving XML queries during schema evolution.",
+    "pdf": "pub/www07-schemaevolve.pdf",
+    "venue": "WWW",
+    "venue_long": "Proceedings of the International Conference on World Wide Web (WWW)",
+    "year": 2007,
+    "authors": "Mirella Moura Moro, Susan Malaika, Lipyeow Lim"
+  },
+  {
+    "title": "Cost-based optimization in DB2 XML.",
+    "pdf": "pub/ibmsys06-xmlopt.pdf",
+    "venue": "IBM Systems Journal 45(2)",
+    "year": 2006,
+    "authors": "Andrey Balmin, Tom Eliaz, John Hornibrook, Lipyeow Lim, Guy M. Lohman, David E. Simmen, Min Wang, Chun Zhang"
+  },
+  {
+    "title": "Real Time Business Performance Monitoring and Analysis Using Metric Network.",
+    "pdf": "pub/icebe06-rtbpm.pdf",
+    "venue": "IEEE International Conference on e-Business Engineering (ICEBE)",
+    "year": 2006,
+    "authors": "Pu Huang, Hui Lei, Lipyeow Lim"
+  },
+  {
+    "title": "Managing E-Commerce Catalogs in a DBMS with Native XML Support.",
+    "pdf": "pub/icebe05-ecatalog.pdf",
+    "venue": "IEEE International Conference on e-Business Engineering (ICEBE)",
+    "year": 2005,
+    "authors": "Lipyeow Lim, Min Wang"
+  },
+  {
+    "title": "CXHist : An On-line Classification-Based Histogram for XML String Selectivity Estimation.",
+    "pdf": "pub/vldb05-xsh.pdf",
+    "venue": "VLDB",
+    "venue_long": "Proceedings of the International Conference on Very Large Data Bases (VLDB)",
+    "year": 2005,
+    "authors": "Lipyeow Lim, Min Wang, Jeffrey Scott Vitter"
+  },
+  {
+    "title": "On-line Methods for Database Optimization.",
+    "pdf": "pub/phdthesis.pdf",
+    "venue": "PhD Thesis, Department of Computer Science, Duke University, North Carolina, USA.",
+    "year": 2004,
+    "authors": "Lipyeow Lim"
+  },
+  {
+    "title": "SASH: A Self-Adaptive Histogram Set for Dynamically Changing Workloads.",
+    "pdf": "pub/vldb03-sash.pdf",
+    "venue": "VLDB",
+    "venue_long": "Proceedings of the International Conference on Very Large Data Bases (VLDB)",
+    "year": 2003,
+    "authors": "Lipyeow Lim, Min Wang, Jeffrey Scott Vitter"
+  },
+  {
+    "title": "Dynamic maintenance of web indexes using landmarks.",
+    "pdf": "pub/www03-ldmk.pdf",
+    "venue": "WWW",
+    "venue_long": "Proceedings of the International Conference on World Wide Web (WWW)",
+    "year": 2003,
+    "authors": "Lipyeow Lim, Min Wang, Sriram Padmanabhan, Jeffrey Scott Vitter, Ramesh C. Agarwal"
+  },
+  {
+    "title": "XPathLearner: An On-line Self-Tuning Markov Histogram for XML Path Selectivity Estimation.",
+    "pdf": "pub/vldb02-xmlpathsel-appendix.pdf",
+    "venue": "VLDB",
+    "venue_long": "Proceedings of the International Conference on Very Large Data Bases (VLDB)",
+    "year": 2002,
+    "authors": "Lipyeow Lim, Min Wang, Sriram Padmanabhan, Jeffrey Scott Vitter, Ronald Parr"
+  },
+  {
+    "title": "Wavelet-Based Cost Estimation for Spatial Queries.",
+    "pdf": "pub/sstd01-spatialsel.pdf",
+    "venue": "International Symposium on Advances in Spatial and Temporal Databases (SSTD)",
+    "year": 2001,
+    "authors": "Min Wang, Jeffrey Scott Vitter, Lipyeow Lim, Sriram Padmanabhan"
+  },
+  {
+    "title": "Characterizing Web Document Change.",
+    "pdf": "pub/waim01-webdocs.pdf",
+    "venue": "International Conference on Advances in Web-Age Information Management (WAIM)",
+    "year": 2001,
+    "authors": "Lipyeow Lim, Min Wang, Sriram Padmanabhan, Jeffrey Scott Vitter, Ramesh C. Agarwal"
+  },
+  {
+    "title": "A Theoretical Look at Pixel Ordering.",
+    "pdf": "pub/pixord.pdf",
+    "venue": "Masters Thesis, School of Computing, National University of Singapore, Singapore.",
+    "year": 1999,
+    "authors": "Lipyeow Lim"
+  }
+]

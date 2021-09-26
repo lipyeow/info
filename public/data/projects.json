@@ -1,0 +1,335 @@
+[
+  {
+    "end_date": "2021-05-01",
+    "start_date": "2020-06-01",
+    "title": "Network Hunting System for FireEye NX & PX L7 data",
+    "desc": "Designed, planned and delivered beta and GA version.",
+    "role": "Product Owner, Project Manager, Software Engineer",
+    "affiliation": "FireEye Inc.",
+    "display_date": "Jun 2020 - May 2021"
+  },
+  {
+    "end_date": "2021-04-01",
+    "start_date": "2020-03-01",
+    "title": "Mission-based Hunting System for FireEye Endpoint Data",
+    "desc": "Designed, planned and coordinated multiple teams to deliver beta and GA version.",
+    "role": "Product Owner, Project Manager, Software Engineer",
+    "affiliation": "FireEye Inc.",
+    "display_date": "Mar 2020 - Apr 2021"
+  },
+  {
+    "end_date": "2021-04-01",
+    "start_date": "2020-06-01",
+    "title": "Alert Triage & Hunting System for Microsoft Defender for Endpoint Data",
+    "desc": "Designed, planned and delivered beta and GA version.",
+    "role": "Product Owner, Software Engineer",
+    "affiliation": "FireEye Inc.",
+    "display_date": "Jun 2020 - Apr 2021"
+  },
+  {
+    "end_date": "2020-08-01",
+    "title": "Energy Efficient Complex Event Processing on Smartphones",
+    "desc": "Researched novel query processing algorithms for complex event processing in mobile devices that optimizes the energy efficiency of the phone and connected sensors.",
+    "start_date": "2010-11-01",
+    "role": "Thesis Advisor, Co-PI",
+    "affiliation": "University of Hawaii at Manoa",
+    "display_date": "Nov 2010 - Aug 2020"
+  },
+  {
+    "end_date": "2020-04-01",
+    "title": "Plant Identification in Natural Images using Deep Learning",
+    "desc": "Researched the application of deep learning techniques to analyze natural images taken by mobile devices in order to identify plant(s) in the image. The vision is to create a mobile application that hikers, students, tourists can use to learn about plants in the state of Hawaii by simply pointing their phones at the flora.",
+    "start_date": "2017-01-01",
+    "role": "Thesis Advisor, Co-PI",
+    "affiliation": "University of Hawaii at Manoa",
+    "display_date": "Jan 2017 - Apr 2020"
+  },
+  {
+    "end_date": "2020-03-01",
+    "start_date": "2019-01-07",
+    "title": "X15 Distributed Database Development",
+    "desc": "Designed and delivered new features (eg. full unicode support), fixed defects, and prototyped a massive transitive closure graph traversal application.",
+    "role": "Software Engineer",
+    "affiliation": "FireEye Inc.",
+    "display_date": "Jan 2019 - Mar 2020"
+  },
+  {
+    "end_date": "2020-01-01",
+    "start_date": "2019-03-01",
+    "title": "Voltron SOC Platform Development",
+    "desc": "Enhanced the data plane in support of alert workflow application. Re-designed database schema of application to optimize performance. Designed platform-level semantic metadata services.",
+    "role": "Software Engineer",
+    "affiliation": "FireEye Inc.",
+    "display_date": "Mar 2019 - Jan 2020"
+  },
+  {
+    "end_date": "2018-12-01",
+    "title": "Social Insurance MIS for Guangdong Province, China.",
+    "desc": "Designed and built the next generation MIS for administering social insurance services to the population of Guangdong (100M). Advised the World Bank team on the technical aspects in project preparation, appraisal, and implementation.",
+    "start_date": "2012-03-01",
+    "role": "Consultant",
+    "affiliation": "The World Bank",
+    "display_date": "Mar 2012 - Dec 2018"
+  },
+  {
+    "end_date": "2017-12-01",
+    "title": "Data Analytics for Renewable Energy Management",
+    "desc": "Researched the application of data mining techniques to analyze various sensor and weather model output data in order to extract actionable insights for renewable energy management.",
+    "start_date": "2012-01-01",
+    "role": "PI",
+    "affiliation": "University of Hawaii at Manoa",
+    "display_date": "Jan 2012 - Dec 2017"
+  },
+  {
+    "end_date": "2013-12-01",
+    "title": "Integrated Social Protection System for Malaysia.",
+    "desc": "Advised the government of Malaysia on the design of an integrated master database of beneficiaries for social benefits targeting.",
+    "start_date": "2013-01-01",
+    "role": "Consultant",
+    "affiliation": "The World Bank",
+    "display_date": "Jan 2013 - Dec 2013"
+  },
+  {
+    "end_date": "2012-12-01",
+    "title": "Query-Aware Compression of Join Query Resuts.",
+    "desc": "Researched a novel compression algorithm for transmitting database join results by exploiting the redundancy information from query execution plans.",
+    "start_date": "2009-01-01",
+    "role": "Thesis Advisor, Co-PI",
+    "affiliation": "IBM, University of Hawaii at Manoa",
+    "display_date": "Jan 2009 - Dec 2012"
+  },
+  {
+    "end_date": "2012-12-01",
+    "title": "Parallel Evaluation of XPath Queries on Multi-Core Architectures.",
+    "desc": "Researched parallel algorithms for evaluating XPath queries on multi-core processors in order to minimize the latency of queries on large XML databases. While inter-query parallelism has increased the throughput of XML queries, this project focused on intra-query parallelism.",
+    "start_date": "2008-08-01",
+    "role": "Co-PI, Thesis Co-Advisor",
+    "affiliation": "IBM, University of Hawaii at Manoa",
+    "display_date": "Aug 2008 - Dec 2012"
+  },
+  {
+    "end_date": "2012-06-01",
+    "title": "Stream Computing for Continuous Wind Forecasting.",
+    "desc": "Researched the feasibility of applying stream computing techniques to the problem of continuous wind forecasting using numerical weather prediction models (WRF). Continuous forecasting aims to continuously assimilate the latest observation data and provide up-to-date forecast to be used in the management of renewable energy.",
+    "start_date": "2011-01-01",
+    "role": "PI",
+    "affiliation": "University of Hawaii at Manoa",
+    "display_date": "Jan 2011 - Jun 2012"
+  },
+  {
+    "end_date": "2010-06-01",
+    "title": "Refreshing Structured Content Extracted from the Web Using Keyword Search.",
+    "desc": "Researched a system for maintaining structured relations that are extracted and replicated from web sources that have only keyword search interfaces. Designed update algorithms and heuristics to minimize the amount of probing of web sources.",
+    "start_date": "2009-01-01",
+    "role": "Co-PI",
+    "affiliation": "IBM",
+    "display_date": "Jan 2009 - Jun 2010"
+  },
+  {
+    "end_date": "2009-07-01",
+    "title": "Performance optimization of IBM's internal Tyto RDF Store.",
+    "desc": "Collected usecases and performance problems in the usage of Tyto in IBM's Websphere products. Designed special indexes and techniques for performance enhancement of RDF processing.",
+    "start_date": "2009-01-01",
+    "role": "Co-PI",
+    "affiliation": "IBM",
+    "display_date": "Jan 2009 - Jul 2009"
+  },
+  {
+    "end_date": "2009-07-01",
+    "title": "Database Adapters for IBM InfoSphere Streams.",
+    "desc": "Designed, prototyped and implemented adapters for integrating InfoSphere Streams, IBM's stream computing middleware, with IBM database servers.  ",
+    "start_date": "2008-04-01",
+    "role": "Software Engineer",
+    "affiliation": "IBM",
+    "display_date": "Apr 2008 - Jul 2009"
+  },
+  {
+    "end_date": "2009-07-01",
+    "title": "Artemis First-of-a-kind Project with UOIT",
+    "desc": "Led the design and implementation of the Data Integration Manager, a keycomponent in the Artemis project. The Artemis project aims to monitor premature babies using streaming technology in order to detect critical conditions such as sepsis before they happen. ",
+    "start_date": "2008-07-01",
+    "role": "Co-PI",
+    "affiliation": "IBM",
+    "display_date": "Jul 2008 - Jul 2009"
+  },
+  {
+    "end_date": "2009-07-01",
+    "title": "Semantic Search in Database and Information Retrieval Systems.",
+    "desc": "Researched algorithms for searching data using semantics from an ontology in the context of very large databases.",
+    "start_date": "2006-01-01",
+    "role": "Co-PI",
+    "affiliation": "IBM",
+    "display_date": "Jan 2006 - Jul 2009"
+  },
+  {
+    "end_date": "2008-03-01",
+    "title": "Index Compression Line Item in IBM DB2 LUW Cobra Release.",
+    "desc": "Designed, prototyped and benchmarked index compression schemes for IBM's DB2 database product. The resultant compression schemes achieved a compression rate of 50% which exceeded the targeted rate of 40%.",
+    "start_date": "2007-10-01",
+    "role": "Co-PI, Software Engineer",
+    "affiliation": "IBM",
+    "display_date": "Oct 2007 - Mar 2008"
+  },
+  {
+    "end_date": "2007-12-01",
+    "title": "Data management in a relational-XML model.",
+    "desc": "Researched methods for managing data using hybrid relational-XML databases exploiting the semi-structured properties of XML to address schema variability and evolution.",
+    "start_date": "2005-03-01",
+    "role": "Co-PI",
+    "affiliation": "IBM",
+    "display_date": "Mar 2005 - Dec 2007"
+  },
+  {
+    "end_date": "2007-10-01",
+    "start_date": "2006-01-01",
+    "title": "UCLA Medical Center Electronic Medical Records.",
+    "desc": "Designed and implemented the electronic medical records system for the four-hospital system that exploits the hybrid relational-XML capabilities of IBM DB2 to address schema variability thus enabling sharing of medical data across different medical applications.",
+    "role": "Consultant",
+    "affiliation": "IBM",
+    "display_date": "Jan 2006 - Oct 2007"
+  },
+  {
+    "end_date": "2006-12-01",
+    "title": "XML Schema Evolution.",
+    "desc": "Studied the problem of XML schema evolution with a particular focus on how schema evolution will impact applications and how applications need to evolve with the schema. One component of this project is the development of a XML schema difference tool.",
+    "start_date": "2005-03-01",
+    "role": "Co-PI",
+    "affiliation": "IBM",
+    "display_date": "Mar 2005 - Dec 2006"
+  },
+  {
+    "end_date": "2006-12-01",
+    "title": "XML Path Selectivity.",
+    "desc": "Researched algorithms for collecting, storing and exploiting statistics for query optimization in native XML databases without scanning the underlying data. Started as an internship project at IBM T. J.Watson Research Center.",
+    "start_date": "2001-06-01",
+    "role": "Ph.D. Student, Co-PI",
+    "affiliation": "Duke University, IBM",
+    "display_date": "Jun 2001 - Dec 2006"
+  },
+  {
+    "end_date": "2006-06-01",
+    "title": "IBM DB2XML Product Development.",
+    "desc": "Developed the XML runstats component in IBM DB2 v9.1 (Viper). In contrast to prototyping, this is actual product development work encompassing design, documentation, coding, testing, and defect resolution.",
+    "start_date": "2004-10-01",
+    "role": "Software Engineer, Feature Owner",
+    "affiliation": "IBM",
+    "display_date": "Oct 2004 - Jun 2006"
+  },
+  {
+    "end_date": "2005-12-01",
+    "start_date": "2005-01-01",
+    "title": "Merrill Lynch Derivative Trading System.",
+    "desc": "Designed the FpML storage system for ML's derivative trading system. Collaborated with Merrill Lynch's information architect to develop an information architecture that exploited hybrid relational-XML data models to address the schema variability problem in financial derivative data.",
+    "role": "Consultant",
+    "affiliation": "IBM",
+    "display_date": "Jan 2005 - Dec 2005"
+  },
+  {
+    "end_date": "2004-12-01",
+    "title": "Classification-based Histograms.",
+    "desc": "Researched and designed a histogram technique that used Bayesian classifiers to remember the values associated with a bucket approximately. Such histograms can be used to store statistics for database query optimization.",
+    "start_date": "2003-09-01",
+    "role": "Ph.D. Student",
+    "affiliation": "Duke University",
+    "display_date": "Sep 2003 - Dec 2004"
+  },
+  {
+    "end_date": "2004-10-01",
+    "title": "Self-Adaptive Set of Histograms.",
+    "desc": "Researched an novel algorithm that exploits a set of histograms to store statistics for relational database query optimization without scanning the underlying data.  Statistical graphical models are used to learn which attributes to build histograms on and how to build these histograms.",
+    "start_date": "2003-07-01",
+    "role": "Ph.D. Student",
+    "affiliation": "Duke University",
+    "display_date": "Jul 2003 - Oct 2004"
+  },
+  {
+    "end_date": "2003-09-01",
+    "title": "IBM DB2XML Product Prototyping.",
+    "desc": "Prototyped the runstats routine in DB2XML, IBM's new native XML DBMS. The runstats routine collects XML data statistics used in query optimization. Internship project at IBM T. J. Watson Research Center. ",
+    "start_date": "2003-06-01",
+    "role": "Research Intern",
+    "affiliation": "IBM",
+    "display_date": "Jun 2003 - Sep 2003"
+  },
+  {
+    "end_date": "2002-05-01",
+    "title": "Finding Motifs from Gene Expression and Sequence Data.",
+    "desc": "Designed an efficient algorithm to find candidate motifs in upstream regions by combining information from both gene expression data and gene sequencing data. Course project for graduate level course, Computational Functional Genomics. Collaborators: Allister Bernard and Ryan Deering.",
+    "start_date": "2002-03-01",
+    "role": "Ph.D. Student",
+    "affiliation": "Duke University",
+    "display_date": "Mar 2002 - May 2002"
+  },
+  {
+    "end_date": "2001-05-01",
+    "title": "Updating Web Indexes.",
+    "desc": "Researched algorithms for keeping inverted indexes used by internet search engines up-to-date. Started as an internship project at IBM T. J. Watson Research Center, this research produced the novel landmark-diff method (published in WWW 2003) for updating web indexes.",
+    "start_date": "2000-05-01",
+    "role": "Research Intern",
+    "affiliation": "IBM",
+    "display_date": "May 2000 - May 2001"
+  },
+  {
+    "end_date": "2000-11-01",
+    "title": "Pixel Ordering with Markov Decision Processes(MDPs).",
+    "desc": "Researched the use of Markov Decision Processes to find an optimal path to traverse all the pixels of an image for optimal compression using a predictive encoder. Course project for graduate-level course, Markov Decision Processes.",
+    "start_date": "2000-09-01",
+    "role": "Ph.D. Student",
+    "affiliation": "Duke University",
+    "display_date": "Sep 2000 - Nov 2000"
+  },
+  {
+    "end_date": "2000-05-01",
+    "title": "Using Prediction to Manage Power-Aware Memory.",
+    "desc": "Researched the application of different prediction methods to the prediction of memory usage patterns for poweringup/down of memory chips. Course project for graduate-level course, Operating Systems. Collaborators: Martin Gilbert.",
+    "start_date": "2000-03-01",
+    "role": "Ph.D. Student",
+    "affiliation": "Duke University",
+    "display_date": "Mar 2000 - May 2000"
+  },
+  {
+    "end_date": "2000-03-01",
+    "title": "Selectivity Estimation in Spatial Database.",
+    "desc": "Conducted research on using wavelets to compress sparse 2D histograms that are used in query optimization in spatial databases. Collaborators: Jeffrey S.Vitter (Duke) and Min Wang (IBM).",
+    "start_date": "1999-11-01",
+    "role": "Ph.D. Student",
+    "affiliation": "Duke University",
+    "display_date": "Nov 1999 - Mar 2000"
+  },
+  {
+    "end_date": "1999-08-01",
+    "title": "Image Compression Research.",
+    "desc": "Conducted research on image compression techniques using predictive-differential coding, discrete cosine transform (DCT), wavelet transforms, hybrid transforms and pixel ordering. Advisor: Philip M.Long.",
+    "start_date": "1998-07-01",
+    "role": "M.Sc. Student",
+    "affiliation": "National University of Singapore",
+    "display_date": "Jul 1998 - Aug 1999"
+  },
+  {
+    "end_date": "1998-06-01",
+    "title": "Mobile-IP Research.",
+    "desc": "Implemented RFC 2290 MIPv4 Option for PPP IPCP on Linux's PPP source. The scope of the project covers issues related to the inter-working of the MIPv4 protocol and the PPP protocol. This is the first implementation of this RFC in the world.",
+    "start_date": "1997-07-01",
+    "role": "B.Sc. Project",
+    "affiliation": "National University of Singapore",
+    "display_date": "Jul 1997 - Jun 1998"
+  },
+  {
+    "end_date": "1997-12-01",
+    "title": "Cryptanalysis Research.",
+    "desc": "Implemented and benchmarked the linear cryptanalysis method (Mitsuru Matsui) and the differential cryptanalysis method on a reduced rounds DES. Course project for the graduate-level course, Cryptographic Systems. ",
+    "start_date": "1997-07-01",
+    "role": "M.Sc. Student",
+    "affiliation": "National University of Singapore",
+    "display_date": "Jul 1997 - Dec 1997"
+  },
+  {
+    "end_date": "1997-12-01",
+    "title": "Parallel Matrix Multiplication.",
+    "desc": "Implemented and benchmarked parallel versions of a block-matrix multiplication algorithm and the Strassen's matrix multiplication algorithm using the Message Passing Interface (MPI) standard. Course project for the graduate-level class, Parallel andDistributed Algorithms.",
+    "start_date": "1997-07-01",
+    "role": "M.Sc. Student",
+    "affiliation": "National University of Singapore",
+    "display_date": "Jul 1997 - Dec 1997"
+  }
+]

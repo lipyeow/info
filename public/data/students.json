@@ -1,0 +1,154 @@
+[
+  {
+    "thesis": "Big Sky, Big Data: Building the First Live Photometry Database for an All Sky Survey",
+    "name": "Kyle Hart",
+    "degree": "MS",
+    "year": 2020,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Energy-Efficient Mobile Sensing",
+    "name": "Tianli Mo",
+    "degree": "PhD",
+    "year": 2020,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "CNN-based Plant Species Categorization Using Natural Images.",
+    "name": "Jonas Krause",
+    "degree": "PhD",
+    "year": 2020,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Parallelizing String Similarity Joins",
+    "name": "Ling-chih Yao",
+    "degree": "MS",
+    "year": 2019,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Hawaiian Automated Speech Recognition",
+    "name": "Sayera Dhaubhadel",
+    "degree": "MS",
+    "year": 2019,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Clustering to Create a Baseline of Network Traffic for Retrospective Analysis",
+    "name": "Ayush Maskey",
+    "degree": "MS",
+    "year": 2019,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Hawaiian Morphemes: Identification, Usage, and Application in Information Retrieval",
+    "name": "Kelsea Hosoda",
+    "degree": "PhD",
+    "year": 2019,
+    "major": "CIS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "An Experimental Survey of Evaluation Strategies for Constellation Queries",
+    "name": "Glenn Galvico",
+    "degree": "BS",
+    "year": 2018,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Classifying Recidivism using LSI, ASUS, and Machine Learning",
+    "name": "Gavin Sugita",
+    "degree": "MS",
+    "year": 2018,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Predicting Emoji Usage for Emoji Recommender System",
+    "name": "Mariam Doliashvili",
+    "degree": "MS",
+    "year": 2017,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Classifying Job Post Text Documents with the Malaysian Standard Classification of Occupations",
+    "name": "Michael Sommer",
+    "degree": "MS",
+    "year": 2017,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Probabilistic Models for One-Day Ahead Solar Irradiance Forecasting in Renewable Anergy Applications",
+    "name": "Carlos Andrade",
+    "degree": "MS",
+    "year": 2016,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Short-Term Solar Irradiance Forecasting and Weather Analysis using Gridded Data",
+    "name": "Todd Taomae",
+    "degree": "MS",
+    "year": 2015,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "An Energy Efficient Approach to Indoor Localization",
+    "name": "Alexander Cam Liu",
+    "degree": "MS",
+    "year": 2015,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Data Analytics for Solar Energy Management",
+    "name": "Christopher Foo",
+    "degree": "MS",
+    "year": 2014,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Data Analytics for Gamification",
+    "name": "Randall Parabicoli",
+    "degree": "MS",
+    "year": 2013,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Query-Aware Compression of Join Results",
+    "name": "Christopher Mullins",
+    "degree": "MS",
+    "year": 2012,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Towards Continuous Weather Forecasting Using Stream Computing",
+    "name": "Andrea Connell",
+    "degree": "MS",
+    "year": 2012,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  },
+  {
+    "thesis": "Parallel XPath Query Evaluation on Multi-core Processors",
+    "name": "Ben Karsin",
+    "degree": "MS",
+    "year": 2011,
+    "major": "ICS",
+    "institution": "University of Hawaii at Manoa"
+  }
+]
