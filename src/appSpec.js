@@ -314,6 +314,7 @@ data-intensive cybersecurity software projects.</i>
               width: 12,
               justify: "flex-start",
               value: `
+<i>
 Studying, training and teaching martial arts is a big part of my life. I
 started learning <b>Chen Style Taijiquan</b> in Singapore from Sifu Chen
 Hui-Qiu and Sifu Hu Su-Tan in 1993. I was then seconded to study under
@@ -321,6 +322,7 @@ Grandmaster Zhu Tian-Cai for several years even during my doctoral studies at
 Duke University. I met <a href="https://iliqchuan.com/grand-master-sam-fs-chin/">Sifu Sam Chin</a> in 2004 at a park in Manhattan's Chinatown
 on a Sunday and have since studied the art of <b>I Liq Chuan</b> with him.
 In Honolulu, I briefly dabbled in edge and blunt weapons while studying <b>Kalis Illustrissimo</b> with Lowell Manabe from 2017 to 2018.
+</i>
 
         <div>
         <figure
