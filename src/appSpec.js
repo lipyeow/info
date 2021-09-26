@@ -5,6 +5,7 @@ import { edu_data } from "./data.js";
 //  - justify is passed to grid container justifyContent prop
 const app_spec = {
   widgets: [
+/*
     {
       type: "image",
       id: "img1",
@@ -12,6 +13,22 @@ const app_spec = {
       imageheight: "170px",
       justify: "center",
       value: "https://lipyeow.github.io/info/img/lipyeow-20210926-b.jpg",
+    },
+*/
+    {
+      type: "text",
+      id: "img1",
+      width: 3,
+      justify: "flex-start",
+      value: `
+      <figure
+            style="float:left;margin:8px 4em 0 4em;height:180px;" 
+      >
+        <img src="https://lipyeow.github.io/info/img/lipyeow-20210926-b.jpg"
+            style="height:180px;" 
+        />
+      </figure>
+      `,
     },
     {
       type: "text",
@@ -34,6 +51,10 @@ const app_spec = {
     {
       type: "tabcontainer",
       id: "tabcontainer01",
+      style: {
+            backgroundColor: "#FCF3CF",
+            indicatorColor: "#DC7633",
+        },
       tabs: [
         {
           label: " Computer Scientist",
@@ -113,7 +134,7 @@ const app_spec = {
                 exportButton: true,
                 maxBodyHeight: "70vh",
                 padding: "dense",
-                headerStyle: { backgroundColor: "#e8e8e8"},
+                headerStyle: { backgroundColor: "#FDEBD0"},
               },
             },
           ],
@@ -161,7 +182,7 @@ const app_spec = {
                 maxBodyHeight: "50vh",
                 padding: "dense",
                 tableLayout: "auto",
-                headerStyle: { backgroundColor: "#e8e8e8"},
+                headerStyle: { backgroundColor: "#FDEBD0"},
               },
             },
             {
@@ -198,7 +219,7 @@ const app_spec = {
                 tableLayout: "auto",
                 padding: "dense",
                 grouping: true,
-                headerStyle: { backgroundColor: "#e8e8e8"},
+                headerStyle: { backgroundColor: "#FDEBD0"},
               },
             },
           ],
@@ -276,7 +297,7 @@ data-intensive cybersecurity software projects.</i>
                 maxBodyHeight: "70vh",
                 padding: "dense",
                 tableLayout: "auto",
-                headerStyle: { backgroundColor: "#e8e8e8"},
+                headerStyle: { backgroundColor: "#FDEBD0"},
               },
             },
           ],

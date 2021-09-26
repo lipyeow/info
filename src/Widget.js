@@ -18,6 +18,7 @@ function Widget(args) {
           <TabContainer
             key={args.wspec.id}
             id={args.wspec.id}
+            style={args.wspec.style}
             tabs={args.wspec.tabs}
           />
         </Grid>
@@ -73,7 +74,7 @@ function Widget(args) {
               border="1"
               height={args.wspec.imageheight}
               style={{
-                margintop: "2em",
+                margintop: "4em",
                 marginleft: "2em",
               }}
               src={args.wspec.value}

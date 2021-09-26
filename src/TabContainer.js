@@ -75,7 +75,8 @@ function TabContainer(args) {
           variant="scrollable"
           scrollButtons="auto"
           className={classes.tabs}
-          TabIndicatorProps={{style: {background: '#3498DB'}}}
+          style={args.style}
+          TabIndicatorProps={{style: {background: args.style.indicatorColor}}}
         >
           {args.tabs.map((tab) => (
             <Tab
