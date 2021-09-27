@@ -41,10 +41,12 @@ const app_spec = {
       <div align="right"><i> -- and a martial artist by avocation.</i></div>
       
       <br/>
-      Fremont, CA, USA <br/>
-      <b>Email</b>: lipyeow at gmail dot com
-      <br/>
-      <b>LinkedIn</b>: 
+      Fremont, CA, USA
+      &nbsp ⬥ &nbsp 
+      <a href="https://lipyeow.github.io/home/cv/resume.pdf">Résumé (pdf)</a>
+      &nbsp ⬥ &nbsp 
+      lipyeow at gmail dot com
+      &nbsp ⬥ &nbsp 
       <a href="www.linkedin.com/in/lipyeowlim">www.linkedin.com/in/lipyeowlim</a>
       `,
     },
@@ -71,9 +73,9 @@ const app_spec = {
                 on pixel ordering in images. I then investigated the use of 
                 machine learning techniques in optimizing database processing 
                 in my doctoral dissertation. I continued with more general 
-                data management research at the IBM Thomas J. Watson Research
-                Center early in my career before embarking on a professorship
-                at the University of Hawaii at Manoa.</i>
+                data management research at the <b>IBM Thomas J. Watson Research
+                Center</b> early in my career before embarking on a professorship
+                at the <b>University of Hawaii at Manoa</b>.</i>
 
                 <h2>Education</h2>
 
@@ -82,21 +84,21 @@ const app_spec = {
                     <br/>
                     <ul>
                     Thesis: <i>Online Methods for Database Optimization</i>.
-                    Advisor: Jeffrey Scott Vitter
+                    Advisor: <a href="https://en.wikipedia.org/wiki/Jeffrey_Vitter">Jeffrey Scott Vitter</a>
                     </ul>
                 </li>
                 <li>2000 - <b>M.Sc.</b> Information Systems & Computer Science, National University of Singapore. 
                     <br/>
                     <ul>
                     Thesis: <i>A Theoretical Look at Pixel Ordering</i>.
-                    Advisor: Philip M. Long
+                    Advisor: <a href="http://phillong.info/">Philip M. Long</a>
                     </ul>
                 </li>
                 <li>1999 - <b>B.Sc.</b> Information Systems & Computer Science, National University of Singapore. 
                     <br/>
                     <ul>
                     Project: <i>Implementation of the mobile IPv4 configuration option for PPP IPCP (RFC 2290)</i>.
-                    Advisor: Yong-Chiang (Y.C.) Tay
+                    Advisor: <a href="https://www.comp.nus.edu.sg/cs/bio/tayyc/">Yong-Chiang (Y.C.) Tay</a>
                     </ul>
                 </li>
                 </ul>
@@ -238,20 +240,20 @@ const app_spec = {
                 <i>My first serious software engineering endeavor was writing a
 linux kernel module for supporting the PPP protocol over MobileIP back in 1998.
 I then progressed to prototyping various research ideas during my graduate
-studies. My software engineering career really began at IBM developing advance
+studies. My software engineering career really began at <b>IBM</b> developing advance
 features for DB2 DBMS and Infosphere Streams software. I then took a break in
 academia teaching students how to write data-intensive software applications as
-well as advising developing nations on their IT projects as a World Bank
-consultant. In 2019, I returned to industry (to FireEye Inc.) to lead
+well as advising developing nations on their IT projects as a <b>World Bank</b>
+consultant. In 2019, I returned to industry (to <b>FireEye Inc.</b>) to lead
 data-intensive cybersecurity software projects.</i>
 
                 <h2>Patents</h2>
 
                 <ul>
-                <li>A list of <a href="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Lipyeow&FIELD1=INNM&co1=AND&TERM2=Lim&FIELD2=INNM&d=PTXT">my patents</a> at USPTO Patent Full-Text and Image Database. </li>
+                <li>A list of <a href="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Lipyeow&FIELD1=INNM&co1=AND&TERM2=Lim&FIELD2=INNM&d=PTXT">my patents</a> (~29) at USPTO Patent Full-Text and Image Database. </li>
 
                 <li>
-                A list of <a href="https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Lipyeow&FIELD1=IN&co1=AND&TERM2=Lim&FIELD2=IN&d=PG01">my patent applications</a> at USPTO Patent Application Full-Text and Image Database. </li>
+                A list of <a href="https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=Lipyeow&FIELD1=IN&co1=AND&TERM2=Lim&FIELD2=IN&d=PG01">my patent applications</a> (~35) at USPTO Patent Application Full-Text and Image Database. </li>
                 </ul>
 
                 <h2>Projects</h2>
