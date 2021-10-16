@@ -47,7 +47,7 @@ const app_spec = {
       &nbsp ⬥ &nbsp 
       lipyeow at gmail dot com
       &nbsp ⬥ &nbsp 
-      <a href="www.linkedin.com/in/lipyeowlim">www.linkedin.com/in/lipyeowlim</a>
+      <a href="https://www.linkedin.com/in/lipyeowlim">www.linkedin.com/in/lipyeowlim</a>
       `,
     },
     {
