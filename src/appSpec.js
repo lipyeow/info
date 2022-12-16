@@ -41,7 +41,7 @@ const app_spec = {
       <div align="right"><i> -- and a martial artist by avocation.</i></div>
       
       <br/>
-      Fremont, CA, USA
+      Dublin, CA, USA
       &nbsp ⬥ &nbsp 
       <a href="https://lipyeow.github.io/home/cv/resume.pdf">Résumé (pdf)</a>
       &nbsp ⬥ &nbsp 
@@ -245,7 +245,9 @@ features for DB2 DBMS and Infosphere Streams software. I then took a break in
 academia teaching students how to write data-intensive software applications as
 well as advising developing nations on their IT projects as a <b>World Bank</b>
 consultant. In 2019, I returned to industry (to <b>FireEye Inc.</b>) to lead
-data-intensive cybersecurity software projects.</i>
+data-intensive cybersecurity software projects.
+In 2022, I joined <b>Databricks Inc.</b> as a technical director to lead the cybersecurity GTM for the Lakehouse platform.
+</i>
 
                 <h2>Patents</h2>
 
