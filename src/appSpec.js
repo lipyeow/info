@@ -75,7 +75,7 @@ const app_spec = {
                 in my doctoral dissertation. I continued with more general 
                 data management research at the <b>IBM Thomas J. Watson Research
                 Center</b> early in my career before embarking on a professorship
-                at the <b>University of Hawaii at Manoa</b>.</i>
+                at the <b>University of Hawaii at Manoa</b>. I left academia in 2019 and continued by research endeavors in the industry.</i>
 
                 <h2>Education</h2>
 
@@ -246,7 +246,7 @@ academia teaching students how to write data-intensive software applications as
 well as advising developing nations on their IT projects as a <b>World Bank</b>
 consultant. In 2019, I returned to industry (to <b>FireEye Inc.</b>) to lead
 data-intensive cybersecurity software projects.
-In 2022, I joined <b>Databricks Inc.</b> as a technical director to lead the cybersecurity GTM for the Lakehouse platform.
+In 2022, I joined <b>Databricks Inc.</b> as a technical director to lead the cybersecurity GTM for the Lakehouse platform. In 2023, I joined <b>Splunk Inc.</b> as Technical Assistant to the CTO to advance Splunk's data lake strategy and in 2024 I took on the role of Senior Director to lead the Splunk AI Toolkit Engineering team. In 2025, I joined the startup <b>Crogl Inc.</b> as Distinguished Engineer and Head of AI to revolutionalize security operations.
 </i>
 
                 <h2>Patents</h2>
