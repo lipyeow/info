@@ -53,6 +53,7 @@ lipyeow at gmail dot com
           { title: 'Educator', child: 'tab-panel-1' },
           { title: 'Software Engineer', child: 'tab-panel-2' },
           { title: 'Martial Artist', child: 'tab-panel-3' },
+          { title: 'Chat UI', child: 'tab-panel-4' },
         ],
       },
 
@@ -357,6 +358,14 @@ I have taught I Liq Chuan since 2007: in New York (2007-2009), in Honolulu (2009
         content: `I started learning Chen style Taijiquan at a class in Yishun, Singapore in circa 1993. I am grateful to my teachers Chen Hui-Qiu and Hu Su-Tan for cultivating my interest and for their meticulous instruction in the nuances of Chen style Taijiquan. A few years later, my primary teachers recommended that I study under GM Zhu Tian-Cai, one of the four tigers or buddha warriors of Chen village Taijiquan.
 
 I have taught Taijiquan as a teaching assistant in Singapore from 1995 to 1999. During my graduate studies at Duke University between 1999 and 2004, I started a Taijiquan Club, taught Chen Style Taijiquan, and organized several workshops for GM Zhu Tian-Cai.`,
+      },
+
+      // ── Tab 4: Chat UI ──────────────────────────────────
+      {
+        id: 'tab-panel-4',
+        component: 'Chat',
+        model: 'gpt-4o-mini',
+        storageKeyPrefix: 'a2ui-chat',
       },
     ],
   },
