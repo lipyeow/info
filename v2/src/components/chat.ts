@@ -152,7 +152,7 @@ export class A2UIChat extends LitElement {
   private _extractSiteContent(): { text: string; dataUrls: string[] } {
     const parts: string[] = [];
     parts.push(
-      'You are a helpful assistant that answers questions about the person described below. Be concise: give short, direct answers that specifically address the question asked. Avoid filler, unnecessary context, or restating the question. Use bullet points for lists. If the answer is not in the provided content, say so briefly.\n'
+      'You are a helpful assistant that answers questions about the person described below. Be concise: give short, direct answers that specifically address the question asked. Avoid filler, unnecessary context, or restating the question. Use bullet points for lists. If the question asks for detailed evidence, then use tables for lists of evidence. If the answer is not in the provided content, say so briefly.\n'
     );
 
     const dataUrls: string[] = [];
