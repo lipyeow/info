@@ -26,6 +26,12 @@ a:hover {
   padding: 16px;
 }
 
+/* A2UI layout */
+.a2ui-column {
+  display: flex;
+  flex-direction: column;
+}
+
 /* Header */
 .header-row {
   display: flex;
@@ -35,13 +41,35 @@ a:hover {
   margin-bottom: 16px;
 }
 
-.header-row rich-content:first-child {
+.header-row > :first-child {
   flex: 0 0 auto;
 }
 
-.header-row rich-content:last-child {
+.header-row > :last-child {
   flex: 1 1 0;
   min-width: 280px;
+}
+
+/* A2UI Section (block flow with float clearfix) */
+.a2ui-section {
+  display: block;
+}
+
+.a2ui-section::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+/* A2UI Image */
+.a2ui-image {
+  margin: 0;
+}
+
+.a2ui-image figcaption {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 4px;
 }
 
 /* Tabs */
