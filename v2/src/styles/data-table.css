@@ -1,0 +1,140 @@
+/* DataTable component styles */
+.data-table-container {
+  width: 100%;
+  margin: 8px 0 24px 0;
+}
+
+.data-table-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 0;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.data-table-title {
+  font-size: 0.95rem;
+  color: #404040;
+}
+
+.data-table-toolbar-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.data-table-search {
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-family: inherit;
+  min-width: 200px;
+}
+
+.data-table-search:focus {
+  outline: none;
+  border-color: #DC7633;
+}
+
+.data-table-export {
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #fff;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-family: inherit;
+  color: #404040;
+  transition: background-color 0.2s;
+}
+
+.data-table-export:hover {
+  background: #f5f5f5;
+}
+
+.data-table-scroll {
+  overflow: auto;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+}
+
+.data-table-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: auto;
+  font-size: 0.85rem;
+}
+
+.data-table-table thead {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.data-table-table th {
+  background-color: #FDEBD0;
+  padding: 10px 8px;
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 2px solid #e0e0e0;
+  cursor: pointer;
+  white-space: nowrap;
+  user-select: none;
+}
+
+.data-table-table th:hover {
+  background-color: #fbe0c0;
+}
+
+.data-table-table th .sort-indicator {
+  margin-left: 4px;
+  opacity: 0.6;
+  font-size: 0.75rem;
+}
+
+.data-table-table td {
+  padding: 10px 8px;
+  border-bottom: 1px solid #eee;
+  vertical-align: top;
+}
+
+.data-table-table tr:hover td {
+  background-color: #fafafa;
+}
+
+/* Dense padding */
+.data-table-table.dense th {
+  padding: 6px 6px;
+}
+
+.data-table-table.dense td {
+  padding: 4px 6px;
+}
+
+/* Group header row */
+.data-table-table .group-header td {
+  background-color: #f5f5f5;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 6px 8px;
+}
+
+.data-table-table .group-header td:hover {
+  background-color: #eee;
+}
+
+/* Footer */
+.data-table-footer {
+  padding: 6px 0;
+  font-size: 0.8rem;
+  color: #888;
+  text-align: right;
+}
+
+@media (max-width: 768px) {
+  .data-table-search {
+    min-width: 140px;
+  }
+}
