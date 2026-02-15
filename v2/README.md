@@ -255,6 +255,12 @@ Things to verify visually:
 - Martial Artist tab: images float beside text, clearfix separates sections
 - Mobile (resize to < 768px): images go full-width, tabs scroll horizontally
 
+If you need to inspect the generated a2ui json, run
+
+```
+cd v2 && npx tsx dump-spec.ts > appspec.json
+```
+
 ## Deploying to GitHub Pages
 
 ```sh
