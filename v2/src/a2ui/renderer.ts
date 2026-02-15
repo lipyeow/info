@@ -13,6 +13,7 @@ import type {
   HeadingComponent,
   MarkdownComponent,
   SectionComponent,
+  ChatComponent,
 } from './types.js';
 
 export class A2UIRenderer {
@@ -61,6 +62,8 @@ export class A2UIRenderer {
         return this.renderMarkdown(comp);
       case 'Section':
         return this.renderSection(comp);
+      case 'Chat':
+        return this.renderChat(comp);
       default:
         return html`<p>Unknown component: ${(comp as A2UIComponent).component}</p>`;
     }
@@ -145,5 +148,12 @@ export class A2UIRenderer {
         ${comp.children.map((childId) => this.renderChildById(childId))}
       </div>
     `;
+  }
+
+  private renderChat(comp: ChatComponent): TemplateResult {
+    return html`<a2ui-chat
+      .model=${comp.model ?? 'gpt-4o-mini'}
+      .storageKeyPrefix=${comp.storageKeyPrefix ?? 'a2ui-chat'}
+    ></a2ui-chat>`;
   }
 }

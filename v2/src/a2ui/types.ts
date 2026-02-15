@@ -66,6 +66,12 @@ export interface SectionComponent extends ComponentBase {
   children: string[];
 }
 
+export interface ChatComponent extends ComponentBase {
+  component: 'Chat';
+  model?: string;
+  storageKeyPrefix?: string;
+}
+
 export type A2UIComponent =
   | ColumnComponent
   | RowComponent
@@ -75,7 +81,8 @@ export type A2UIComponent =
   | ImageComponent
   | HeadingComponent
   | MarkdownComponent
-  | SectionComponent;
+  | SectionComponent
+  | ChatComponent;
 
 export interface UpdateComponentsMessage {
   version: string;
