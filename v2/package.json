@@ -1,0 +1,26 @@
+{
+  "name": "lipyeow-info",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "homepage": "https://lipyeow.github.io/info",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "lit": "^3.2.0",
+    "@tanstack/lit-table": "^8.21.0",
+    "@tanstack/table-core": "^8.21.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "vite": "^6.0.0",
+    "gh-pages": "^6.3.0"
+  }
+}
